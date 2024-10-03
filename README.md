@@ -12,7 +12,7 @@ If neither player makes any combination before filling the nine positions, it wi
 
 # Demonstration
 
-![Calculator demonstration](/demo/Demo.gif)
+![Calculator demonstration](/Demo/Demo.gif)
 
 # Autor
 
